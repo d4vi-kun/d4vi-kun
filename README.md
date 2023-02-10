@@ -13,7 +13,7 @@
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://tenor.com/pt-PT/view/menhera-chan-chibi-menhera-angry-anime-girl-gif-24076530.gif">
+  <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://tenor.com/pt-PT/view/anime-tea-menhera-chan-gif-25190056.gif">
 </div>
   
   ##
